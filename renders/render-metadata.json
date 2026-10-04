@@ -1,0 +1,25 @@
+{
+  "renders": [
+    "/Users/pixawna/Documents/ChatGPT/Nobirobotics/step-counter-v1/renders/model-preview.png",
+    "/Users/pixawna/Documents/ChatGPT/Nobirobotics/step-counter-v1/renders/assembly-preview.png",
+    "/Users/pixawna/Documents/ChatGPT/Nobirobotics/step-counter-v1/renders/mounting-detail.png"
+  ],
+  "parts": 12,
+  "assembly_bounds_mm": [
+    [
+      -35.0,
+      -39.0,
+      0.0
+    ],
+    [
+      35.0,
+      49.0,
+      28.0
+    ]
+  ],
+  "overall_dimensions_mm": [
+    70.0,
+    88.0,
+    28.0
+  ]
+}

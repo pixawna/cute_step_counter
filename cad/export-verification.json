@@ -1,0 +1,2326 @@
+{
+  "status": "Digital geometry verified; physical hardware fit not tested",
+  "files": {
+    "stl/01_front_bezel.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 14549.733031349298,
+      "dimensions_mm": [
+        70.0,
+        78.0,
+        22.0
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "4fa4773be01e18cab1d8933a3a03526970aebf1b08a492757d1f45a0fbe58101"
+    },
+    "stl/02_middle_shell.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 5462.596863355957,
+      "dimensions_mm": [
+        70.0,
+        88.0,
+        10.0
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "c8cc20515c6c6bd63b9c7a55de72a27784878d4c04ee45c8e415aa5d5fe85c43"
+    },
+    "stl/03_back_cover.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 13976.366263772565,
+      "dimensions_mm": [
+        70.0,
+        78.0,
+        11.0
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "4e2f53fc386b9c3afaf5c09da19eff0943b0f3e5c4801f7e2347f93495bbce95"
+    },
+    "stl/04_sensor_carrier.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 1264.865834961043,
+      "dimensions_mm": [
+        61.0,
+        26.0,
+        4.1
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "6f6f5d1d2de03a00cf73d36ffd0e13cc193415acf8d07878362eabf737306ba0"
+    },
+    "stl/05_tft_retainer_left.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 355.25561740088,
+      "dimensions_mm": [
+        8.0,
+        37.0,
+        1.6
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "d3aa9c4664004dfc41bb7f56b8d74be0dcb22d971a6ad0ccd8f006da11743eef"
+    },
+    "stl/05_tft_retainer_right.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 355.25561740088006,
+      "dimensions_mm": [
+        8.0,
+        37.0,
+        1.6
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "0b3968b8e7348b3b17141dfbcff1bd73ffa6aa682501e9d5198a9e3d6f8ed795"
+    },
+    "stl/06_sensor_clamp_left.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 59.101148152025125,
+      "dimensions_mm": [
+        9.0,
+        5.0,
+        1.6
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "27c2ba5192729320ddd73f4a4eba9feeaa3e82e8f86890cfde53b7ff896296ea"
+    },
+    "stl/06_sensor_clamp_right.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 59.10114815202513,
+      "dimensions_mm": [
+        9.0,
+        5.0,
+        1.6
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "2e2d8e2d14fee340dd98095bb2681eb07e0b88a604202b1e07bf6a7ab1831885"
+    },
+    "stl/07_foot_left.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 93.12666649567446,
+      "dimensions_mm": [
+        11.0,
+        9.0,
+        1.6
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "ca4c0c81e3aac6d39e274b6c0ab9fed38673227853c9e3d6311d488508d3facd"
+    },
+    "stl/07_foot_right.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 93.12666649567446,
+      "dimensions_mm": [
+        11.0,
+        9.0,
+        1.6
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "9813662ae3474e55111b3b54b35528803c105fe36acf003d075a895a4c7b7aa3"
+    },
+    "stl/08_cheek_left.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 22.60332204318691,
+      "dimensions_mm": [
+        6.0,
+        6.0,
+        0.8
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "69735a58bf507356aa2437e50a3212abb67a695654924a2664b1bdad0891484e"
+    },
+    "stl/08_cheek_right.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 22.60332204318691,
+      "dimensions_mm": [
+        6.0,
+        6.0,
+        0.8
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "26e726eb2215971701de43295f3810e5c44ebb4aeab9e8bfea083b722e79e917"
+    },
+    "fit-check/01_window_alignment.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 7033.851038194098,
+      "dimensions_mm": [
+        70.0,
+        78.0,
+        2.0
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "4516cd8796c5773b1ec8e62eb232430cb488fac9a23a5c55ce75048b857cdf03"
+    },
+    "fit-check/02_tft_outline_gauge.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 1280.5082906779717,
+      "dimensions_mm": [
+        45.0,
+        69.0,
+        2.0
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "41969cf7ad943f3e40a0e213db1056dc9cb14162b20d535bc4cf5528551e5c4c"
+    },
+    "fit-check/03_fastener_test.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 2498.5193304628574,
+      "dimensions_mm": [
+        36.0,
+        12.0,
+        6.0
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "4ef9b7d9b1ffa972cbdec6932e909191c97501111b4135f5374cad9953234f4c"
+    },
+    "cad/assembly/01_front_bezel_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 14549.732966334372,
+      "dimensions_mm": [
+        70.0,
+        78.0,
+        22.0
+      ],
+      "minimum_z_mm": 1.2000000476837158,
+      "sha256": "281a9fd5d617b49037ac93f1358b34c835ca513dc60954250cd4d42a81af2a2b"
+    },
+    "cad/assembly/02_middle_shell_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 5462.596863355957,
+      "dimensions_mm": [
+        70.0,
+        88.0,
+        10.0
+      ],
+      "minimum_z_mm": 9.0,
+      "sha256": "a7a3eca787a6aa5cb227b32c30acdaeab0e986b31f3f7f0458747e5f6b34fa75"
+    },
+    "cad/assembly/03_back_cover_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 13976.366263772565,
+      "dimensions_mm": [
+        70.0,
+        78.0,
+        11.0
+      ],
+      "minimum_z_mm": 17.0,
+      "sha256": "7faf9f2cecec0c5a29d5409dda08e7b63fb826608ee0dc8e36f54603de5a21ba"
+    },
+    "cad/assembly/04_sensor_carrier_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 1264.865834961043,
+      "dimensions_mm": [
+        61.0,
+        26.0,
+        4.1
+      ],
+      "minimum_z_mm": 12.300000190734863,
+      "sha256": "cbf02cbbee375dbe17fe5fe6a76c36ac196d644cdb6148b21624d27ea4ee5bfe"
+    },
+    "cad/assembly/05_tft_retainer_left_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 355.25561740088,
+      "dimensions_mm": [
+        8.0,
+        37.0,
+        1.6
+      ],
+      "minimum_z_mm": 9.199999809265137,
+      "sha256": "c68baf87f2cc70e82323061dc4ba6bbc55d5fb8946d31a0cd43f6086e29e0512"
+    },
+    "cad/assembly/05_tft_retainer_right_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 355.25561740088006,
+      "dimensions_mm": [
+        8.0,
+        37.0,
+        1.6
+      ],
+      "minimum_z_mm": 9.199999809265137,
+      "sha256": "75e7c8cfbb7c06043a7bba24c80de34dbf3d2b1313b292fd5d71b01d9f736cda"
+    },
+    "cad/assembly/06_sensor_clamp_left_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 59.101148152025125,
+      "dimensions_mm": [
+        9.0,
+        5.0,
+        1.6
+      ],
+      "minimum_z_mm": 16.399999618530273,
+      "sha256": "e734555ce754b13bcf34ce1e70ca482bcb8b511f038f45d6c40f31012d22b92e"
+    },
+    "cad/assembly/06_sensor_clamp_right_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 59.10114815202513,
+      "dimensions_mm": [
+        9.0,
+        5.0,
+        1.6
+      ],
+      "minimum_z_mm": 16.399999618530273,
+      "sha256": "c17dfee9e4a30166162773893af66d1f41e00e42a96d952295b0e4f92e79ab34"
+    },
+    "cad/assembly/07_foot_left_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 93.12666642617951,
+      "dimensions_mm": [
+        11.0,
+        9.0,
+        1.6
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "011ca450df255a7f975e7bca4a7dcf239dbf57c5c223463c9bb9af9dcb7f20ee"
+    },
+    "cad/assembly/07_foot_right_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 93.12666642617951,
+      "dimensions_mm": [
+        11.0,
+        9.0,
+        1.6
+      ],
+      "minimum_z_mm": 0.0,
+      "sha256": "68f61551a4dc646a84eea591ca30f93c71de97271f62c4eba0f359fa4df7595c"
+    },
+    "cad/assembly/08_cheek_left_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 22.60332204318691,
+      "dimensions_mm": [
+        6.0,
+        6.0,
+        0.8
+      ],
+      "minimum_z_mm": 0.800000011920929,
+      "sha256": "5608ba822243b7961fd258a0496a370eaa46ed11174f0780679e99e487089f93"
+    },
+    "cad/assembly/08_cheek_right_assembled.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 22.60332204318691,
+      "dimensions_mm": [
+        6.0,
+        6.0,
+        0.8
+      ],
+      "minimum_z_mm": 0.800000011920929,
+      "sha256": "f010076f2373aa41b05c5ffdc077cc3c5e0798b0d47f7be58494637dad7f229a"
+    },
+    "cad/hardware_reference_NOT_FOR_PRINT/sensor_components.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 3494.3998413085938,
+      "dimensions_mm": [
+        26.0,
+        16.0,
+        8.4
+      ],
+      "minimum_z_mm": 16.399999618530273,
+      "sha256": "1717cd14b03e6569b8184dbd24802cd27ff70643f71694cd535edf825b96e821"
+    },
+    "cad/hardware_reference_NOT_FOR_PRINT/sensor_pcb.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 959.9996566772461,
+      "dimensions_mm": [
+        30.0,
+        20.0,
+        1.6
+      ],
+      "minimum_z_mm": 14.800000190734863,
+      "sha256": "c60825ee31232ab4d2f53e478f434e2418768dff01395e4d55e2b9167eaf81da"
+    },
+    "cad/hardware_reference_NOT_FOR_PRINT/tft_header.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 558.6001014709473,
+      "dimensions_mm": [
+        38.0,
+        7.0,
+        2.1
+      ],
+      "minimum_z_mm": 9.199999809265137,
+      "sha256": "1a9d9d706a4578c58bc8006389562dacbc30b36dd27795374d4bff1a19a29078"
+    },
+    "cad/hardware_reference_NOT_FOR_PRINT/tft_lcd.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 6256.0,
+      "dimensions_mm": [
+        34.0,
+        46.0,
+        4.0
+      ],
+      "minimum_z_mm": 3.5999999046325684,
+      "sha256": "4d1075f3c7832a7ae9ddd5d26047a78c687a69a1fb9163f0b38bd3d87304a2b9"
+    },
+    "cad/hardware_reference_NOT_FOR_PRINT/tft_pcb.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 3769.599775314331,
+      "dimensions_mm": [
+        38.0,
+        62.0,
+        1.6
+      ],
+      "minimum_z_mm": 7.599999904632568,
+      "sha256": "67ec4e4b662028db6fab5eaa09f730c7b5edd79ce57933e2210409c9a0504391"
+    },
+    "cad/hardware_reference_NOT_FOR_PRINT/tft_rear_components.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "connected_components": 1,
+      "finite_vertices": true,
+      "volume_mm3": 2646.0004806518555,
+      "dimensions_mm": [
+        30.0,
+        42.0,
+        2.1
+      ],
+      "minimum_z_mm": 9.199999809265137,
+      "sha256": "9303684cc69efff375c6471d965d41e9399ce020651033eabff9c03597cf868d"
+    }
+  },
+  "intersection_checks": [
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_left_assembled",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_left_assembled",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_left_assembled",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_left_assembled",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_left_assembled",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_right_assembled",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_right_assembled",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_right_assembled",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_right_assembled",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_left_assembled",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_left_assembled",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_left_assembled",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_right_assembled",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_right_assembled",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_left_assembled",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_front_bezel_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "02_middle_shell_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "03_back_cover_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "04_sensor_carrier_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_left_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "05_tft_retainer_right_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_left_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_left_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_left_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_left_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_left_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_left_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_right_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_right_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_right_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_right_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_right_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "06_sensor_clamp_right_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_left_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_left_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_left_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_left_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_left_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_left_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_right_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_right_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_right_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_right_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_right_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "07_foot_right_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_left_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_left_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_left_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_left_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_left_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_left_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_right_assembled",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_right_assembled",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_right_assembled",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_right_assembled",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_right_assembled",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_cheek_right_assembled",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_components",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_components",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_components",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_components",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_components",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_pcb",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_pcb",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_pcb",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_pcb",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_header",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_header",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_header",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_lcd",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_lcd",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_pcb",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_-23",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_-27.5_23",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_-23",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "closure_head_27.5_23",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 1e-06
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_-12",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 1e-06
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_-22.5_12",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 1e-06
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_-12",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 1e-06
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "tft_head_22.5_12",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 1e-06
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_-28",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 1e-06
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "carrier_head_28",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_-19.5",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "01_front_bezel_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "02_middle_shell_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "03_back_cover_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "04_sensor_carrier_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "05_tft_retainer_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "05_tft_retainer_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "06_sensor_clamp_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "06_sensor_clamp_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "07_foot_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "07_foot_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "08_cheek_left_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "08_cheek_right_assembled",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "sensor_components",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "sensor_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "tft_header",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "tft_lcd",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "tft_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "sensor_head_19.5",
+      "b": "tft_rear_components",
+      "overlap_mm3": 0.0
+    }
+  ],
+  "fastener_engagement_mm": {
+    "rear_M2x10": 7.2,
+    "TFT_M2x5": 3.4,
+    "carrier_M2x6": 4.0,
+    "sensor_M2x5": 3.4
+  },
+  "assembly_dimensions_mm": [
+    70.0,
+    88.0,
+    28.0
+  ],
+  "screw_head_assumption": "M2 pan head: maximum 3.8 mm diameter x 1.6 mm height; confirm hardware."
+}

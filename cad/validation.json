@@ -1,0 +1,1477 @@
+{
+  "units": "mm",
+  "status": "PRINTABLE FIT-CHECK PROTOTYPE; physical hardware fit unverified",
+  "coordinate_system": "X right, Y up, Z front-to-back; front is -Z",
+  "parts": {
+    "01_front_bezel": {
+      "file": "stl/01_front_bezel.stl",
+      "assembled_bounds": [
+        [
+          -35.0,
+          -39.0,
+          1.2
+        ],
+        [
+          35.0,
+          39.0,
+          23.2
+        ]
+      ],
+      "print_bounds": [
+        [
+          -35.0,
+          -39.0,
+          0.0
+        ],
+        [
+          35.0,
+          39.0,
+          22.0
+        ]
+      ],
+      "dimensions": [
+        70.0,
+        78.0,
+        22.0
+      ],
+      "print_rotation_xyz_deg": [
+        0,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        -1.2000000476837158
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 14549.733,
+      "faces": 20898,
+      "color": "cream",
+      "notes": "Cream front shell with PCB edge seats, closure posts and face engraving. Broad front face down; brim recommended. Paint engraved eyes/smile dark."
+    },
+    "02_middle_shell": {
+      "file": "stl/02_middle_shell.stl",
+      "assembled_bounds": [
+        [
+          -35.0,
+          -39.0,
+          9.0
+        ],
+        [
+          35.0,
+          49.0,
+          19.0
+        ]
+      ],
+      "print_bounds": [
+        [
+          -35.0,
+          -39.0,
+          0.0
+        ],
+        [
+          35.0,
+          49.0,
+          10.0
+        ]
+      ],
+      "dimensions": [
+        70.0,
+        88.0,
+        10.0
+      ],
+      "print_rotation_xyz_deg": [
+        0,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        -9.0
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 5462.5969,
+      "faces": 1668,
+      "color": "lavender",
+      "notes": "Lavender ring and integral reinforced loop. Print front mating face down: loop begins on bed. Registration lips are on the covers."
+    },
+    "03_back_cover": {
+      "file": "stl/03_back_cover.stl",
+      "assembled_bounds": [
+        [
+          -35.0,
+          -39.0,
+          17.0
+        ],
+        [
+          35.0,
+          39.0,
+          28.0
+        ]
+      ],
+      "print_bounds": [
+        [
+          -35.0,
+          -39.0,
+          0.0
+        ],
+        [
+          35.0,
+          39.0,
+          11.0
+        ]
+      ],
+      "dimensions": [
+        70.0,
+        78.0,
+        11.0
+      ],
+      "print_rotation_xyz_deg": [
+        180,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        28.0
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 13976.3663,
+      "faces": 15908,
+      "color": "cream",
+      "notes": "Cream rear shell with four recessed rear screw heads and engraved face. Exterior face down; supports needed below inset perimeter of curved edge only if slicer flags them."
+    },
+    "04_sensor_carrier": {
+      "file": "stl/04_sensor_carrier.stl",
+      "assembled_bounds": [
+        [
+          -30.5,
+          -13.0,
+          12.3
+        ],
+        [
+          30.5,
+          13.0,
+          16.4
+        ]
+      ],
+      "print_bounds": [
+        [
+          -30.5,
+          -13.0,
+          0.0
+        ],
+        [
+          30.5,
+          13.0,
+          4.1
+        ]
+      ],
+      "dimensions": [
+        61.0,
+        26.0,
+        4.1
+      ],
+      "print_rotation_xyz_deg": [
+        0,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        -12.300000190734863
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 1264.8658,
+      "faces": 2996,
+      "color": "lavender",
+      "notes": "Removable rear carrier: open 28 x 18 underside relief. Four corner lands support the assumed PCB outline; inspect actual solder/component clearance."
+    },
+    "05_tft_retainer_left": {
+      "file": "stl/05_tft_retainer_left.stl",
+      "assembled_bounds": [
+        [
+          -25.5,
+          -18.5,
+          9.2
+        ],
+        [
+          -17.5,
+          18.5,
+          10.8
+        ]
+      ],
+      "print_bounds": [
+        [
+          -25.5,
+          -18.5,
+          0.0
+        ],
+        [
+          -17.5,
+          18.5,
+          1.6
+        ]
+      ],
+      "dimensions": [
+        8.0,
+        37.0,
+        1.6
+      ],
+      "print_rotation_xyz_deg": [
+        0,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        -9.199999809265137
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 355.2556,
+      "faces": 944,
+      "color": "lavender",
+      "notes": "Adjustable edge retainer, 1.5 mm nominal PCB overlap. Requires clear PCB margins; never clamp display glass. Flat print."
+    },
+    "05_tft_retainer_right": {
+      "file": "stl/05_tft_retainer_right.stl",
+      "assembled_bounds": [
+        [
+          17.5,
+          -18.5,
+          9.2
+        ],
+        [
+          25.5,
+          18.5,
+          10.8
+        ]
+      ],
+      "print_bounds": [
+        [
+          17.5,
+          -18.5,
+          0.0
+        ],
+        [
+          25.5,
+          18.5,
+          1.6
+        ]
+      ],
+      "dimensions": [
+        8.0,
+        37.0,
+        1.6
+      ],
+      "print_rotation_xyz_deg": [
+        0,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        -9.199999809265137
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 355.2556,
+      "faces": 946,
+      "color": "lavender",
+      "notes": "Adjustable edge retainer, 1.5 mm nominal PCB overlap. Requires clear PCB margins; never clamp display glass. Flat print."
+    },
+    "06_sensor_clamp_left": {
+      "file": "stl/06_sensor_clamp_left.stl",
+      "assembled_bounds": [
+        [
+          -22.5,
+          -2.5,
+          16.4
+        ],
+        [
+          -13.5,
+          2.5,
+          18.0
+        ]
+      ],
+      "print_bounds": [
+        [
+          -22.5,
+          -2.5,
+          0.0
+        ],
+        [
+          -13.5,
+          2.5,
+          1.6
+        ]
+      ],
+      "dimensions": [
+        9.0,
+        5.0,
+        1.6
+      ],
+      "print_rotation_xyz_deg": [
+        0,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        -16.399999618530273
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 59.1011,
+      "faces": 408,
+      "color": "lavender",
+      "notes": "Adjustable sensor PCB edge clamp; use M2 x 5 nominal tapped-pilot fastener. Confirm edge is free of components. Flat print."
+    },
+    "06_sensor_clamp_right": {
+      "file": "stl/06_sensor_clamp_right.stl",
+      "assembled_bounds": [
+        [
+          13.5,
+          -2.5,
+          16.4
+        ],
+        [
+          22.5,
+          2.5,
+          18.0
+        ]
+      ],
+      "print_bounds": [
+        [
+          13.5,
+          -2.5,
+          0.0
+        ],
+        [
+          22.5,
+          2.5,
+          1.6
+        ]
+      ],
+      "dimensions": [
+        9.0,
+        5.0,
+        1.6
+      ],
+      "print_rotation_xyz_deg": [
+        0,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        -16.399999618530273
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 59.1011,
+      "faces": 408,
+      "color": "lavender",
+      "notes": "Adjustable sensor PCB edge clamp; use M2 x 5 nominal tapped-pilot fastener. Confirm edge is free of components. Flat print."
+    },
+    "07_foot_left": {
+      "file": "stl/07_foot_left.stl",
+      "assembled_bounds": [
+        [
+          -18.5,
+          -36.7,
+          0.0
+        ],
+        [
+          -7.5,
+          -27.7,
+          1.6
+        ]
+      ],
+      "print_bounds": [
+        [
+          -18.5,
+          27.7,
+          0.0
+        ],
+        [
+          -7.5,
+          36.7,
+          1.6
+        ]
+      ],
+      "dimensions": [
+        11.0,
+        9.0,
+        1.6
+      ],
+      "print_rotation_xyz_deg": [
+        180,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        1.600000023841858
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 93.1267,
+      "faces": 2590,
+      "color": "lavender",
+      "notes": "Lavender shallow foot. Flat glue base down; fit into matching pocket using a small amount of adhesive."
+    },
+    "07_foot_right": {
+      "file": "stl/07_foot_right.stl",
+      "assembled_bounds": [
+        [
+          7.5,
+          -36.7,
+          0.0
+        ],
+        [
+          18.5,
+          -27.7,
+          1.6
+        ]
+      ],
+      "print_bounds": [
+        [
+          7.5,
+          27.7,
+          0.0
+        ],
+        [
+          18.5,
+          36.7,
+          1.6
+        ]
+      ],
+      "dimensions": [
+        11.0,
+        9.0,
+        1.6
+      ],
+      "print_rotation_xyz_deg": [
+        180,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        1.600000023841858
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 93.1267,
+      "faces": 2590,
+      "color": "lavender",
+      "notes": "Lavender shallow foot. Flat glue base down; fit into matching pocket using a small amount of adhesive."
+    },
+    "08_cheek_left": {
+      "file": "stl/08_cheek_left.stl",
+      "assembled_bounds": [
+        [
+          -28.0,
+          -6.0,
+          0.8
+        ],
+        [
+          -22.0,
+          0.0,
+          1.6
+        ]
+      ],
+      "print_bounds": [
+        [
+          -28.0,
+          -6.0,
+          0.0
+        ],
+        [
+          -22.0,
+          0.0,
+          0.8
+        ]
+      ],
+      "dimensions": [
+        6.0,
+        6.0,
+        0.8
+      ],
+      "print_rotation_xyz_deg": [
+        0,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        -0.800000011920929
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 22.6033,
+      "faces": 380,
+      "color": "lavender",
+      "notes": "Lavender cheek insert; flat print. Glue in matching recessed front pocket."
+    },
+    "08_cheek_right": {
+      "file": "stl/08_cheek_right.stl",
+      "assembled_bounds": [
+        [
+          22.0,
+          -6.0,
+          0.8
+        ],
+        [
+          28.0,
+          0.0,
+          1.6
+        ]
+      ],
+      "print_bounds": [
+        [
+          22.0,
+          -6.0,
+          0.0
+        ],
+        [
+          28.0,
+          0.0,
+          0.8
+        ]
+      ],
+      "dimensions": [
+        6.0,
+        6.0,
+        0.8
+      ],
+      "print_rotation_xyz_deg": [
+        0,
+        0,
+        0
+      ],
+      "print_translation": [
+        0,
+        0,
+        -0.800000011920929
+      ],
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 22.6033,
+      "faces": 380,
+      "color": "lavender",
+      "notes": "Lavender cheek insert; flat print. Glue in matching recessed front pocket."
+    }
+  },
+  "reserves": {
+    "tft_pcb": {
+      "bounds": [
+        [
+          -19.0,
+          -31.0,
+          7.6
+        ],
+        [
+          19.0,
+          31.0,
+          9.2
+        ]
+      ],
+      "note": "Seller PCB outline; thickness and Z seating plane assumed."
+    },
+    "tft_lcd": {
+      "bounds": [
+        [
+          -17.0,
+          -23.0,
+          3.6
+        ],
+        [
+          17.0,
+          23.0,
+          7.6
+        ]
+      ],
+      "note": "Assumed LCD/module frame 34 x 46; verify this frame and viewing-area offset."
+    },
+    "tft_rear_components": {
+      "bounds": [
+        [
+          -15.0,
+          -21.0,
+          9.2
+        ],
+        [
+          15.0,
+          21.0,
+          11.3
+        ]
+      ],
+      "note": "Assumed component zone; excludes assumed clear PCB retention margins."
+    },
+    "tft_header": {
+      "bounds": [
+        [
+          -19.0,
+          24.0,
+          9.2
+        ],
+        [
+          19.0,
+          31.0,
+          11.3
+        ]
+      ],
+      "note": "Low-profile header/wire allowance only; tall straight headers may not fit."
+    },
+    "sensor_pcb": {
+      "bounds": [
+        [
+          -15.0,
+          -10.0,
+          14.8
+        ],
+        [
+          15.0,
+          10.0,
+          16.4
+        ]
+      ],
+      "note": "Seller envelope interpreted as a PCB outline for this prototype only; verify."
+    },
+    "sensor_components": {
+      "bounds": [
+        [
+          -13.0,
+          -8.0,
+          16.4
+        ],
+        [
+          13.0,
+          8.0,
+          24.8
+        ]
+      ],
+      "note": "Assumed rear component zone, 10 mm total module height; verify edge clamp clear zones."
+    }
+  },
+  "part_intersections": [
+    {
+      "part_a": "07_foot_left",
+      "part_b": "08_cheek_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_left",
+      "part_b": "07_foot_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_left",
+      "part_b": "08_cheek_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_left",
+      "part_b": "01_front_bezel",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_left",
+      "part_b": "02_middle_shell",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_left",
+      "part_b": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_left",
+      "part_b": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_left",
+      "part_b": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_left",
+      "part_b": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_left",
+      "part_b": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_left",
+      "part_b": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_left",
+      "part_b": "07_foot_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_left",
+      "part_b": "08_cheek_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_left",
+      "part_b": "01_front_bezel",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_left",
+      "part_b": "02_middle_shell",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_left",
+      "part_b": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_left",
+      "part_b": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_left",
+      "part_b": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_left",
+      "part_b": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_left",
+      "part_b": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_left",
+      "part_b": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_right",
+      "part_b": "08_cheek_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_right",
+      "part_b": "01_front_bezel",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_right",
+      "part_b": "02_middle_shell",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_right",
+      "part_b": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_right",
+      "part_b": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_right",
+      "part_b": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_right",
+      "part_b": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_right",
+      "part_b": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "07_foot_right",
+      "part_b": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_right",
+      "part_b": "01_front_bezel",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_right",
+      "part_b": "02_middle_shell",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_right",
+      "part_b": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_right",
+      "part_b": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_right",
+      "part_b": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_right",
+      "part_b": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_right",
+      "part_b": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "08_cheek_right",
+      "part_b": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "01_front_bezel",
+      "part_b": "02_middle_shell",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "01_front_bezel",
+      "part_b": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "01_front_bezel",
+      "part_b": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "01_front_bezel",
+      "part_b": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "01_front_bezel",
+      "part_b": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "01_front_bezel",
+      "part_b": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "01_front_bezel",
+      "part_b": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "02_middle_shell",
+      "part_b": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "02_middle_shell",
+      "part_b": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "02_middle_shell",
+      "part_b": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "02_middle_shell",
+      "part_b": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "02_middle_shell",
+      "part_b": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "02_middle_shell",
+      "part_b": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "03_back_cover",
+      "part_b": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "03_back_cover",
+      "part_b": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "03_back_cover",
+      "part_b": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "03_back_cover",
+      "part_b": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "03_back_cover",
+      "part_b": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "04_sensor_carrier",
+      "part_b": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "04_sensor_carrier",
+      "part_b": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "04_sensor_carrier",
+      "part_b": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "04_sensor_carrier",
+      "part_b": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "05_tft_retainer_left",
+      "part_b": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "05_tft_retainer_left",
+      "part_b": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "05_tft_retainer_left",
+      "part_b": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "06_sensor_clamp_left",
+      "part_b": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "06_sensor_clamp_left",
+      "part_b": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "part_a": "05_tft_retainer_right",
+      "part_b": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    }
+  ],
+  "hardware_intersections": [
+    {
+      "reserve": "tft_pcb",
+      "part": "07_foot_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_pcb",
+      "part": "08_cheek_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_pcb",
+      "part": "07_foot_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_pcb",
+      "part": "08_cheek_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_pcb",
+      "part": "01_front_bezel",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_pcb",
+      "part": "02_middle_shell",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_pcb",
+      "part": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_pcb",
+      "part": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_pcb",
+      "part": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_pcb",
+      "part": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_pcb",
+      "part": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_pcb",
+      "part": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "07_foot_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "08_cheek_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "07_foot_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "08_cheek_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "01_front_bezel",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "02_middle_shell",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_lcd",
+      "part": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "07_foot_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "08_cheek_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "07_foot_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "08_cheek_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "01_front_bezel",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "02_middle_shell",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_rear_components",
+      "part": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "07_foot_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "08_cheek_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "07_foot_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "08_cheek_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "01_front_bezel",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "02_middle_shell",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "tft_header",
+      "part": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "07_foot_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "08_cheek_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "07_foot_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "08_cheek_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "01_front_bezel",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "02_middle_shell",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_pcb",
+      "part": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "07_foot_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "08_cheek_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "07_foot_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "08_cheek_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "01_front_bezel",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "02_middle_shell",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "03_back_cover",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "04_sensor_carrier",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "05_tft_retainer_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "06_sensor_clamp_left",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "05_tft_retainer_right",
+      "intersection_mm3": 0.0
+    },
+    {
+      "reserve": "sensor_components",
+      "part": "06_sensor_clamp_right",
+      "intersection_mm3": 0.0
+    }
+  ],
+  "assembly_bounds": [
+    [
+      -35.0,
+      -39.0,
+      0.0
+    ],
+    [
+      35.0,
+      49.0,
+      28.0
+    ]
+  ],
+  "assembly_dimensions": [
+    70.0,
+    88.0,
+    28.0
+  ],
+  "hardware_pair_intersections": [
+    {
+      "a": "tft_pcb",
+      "b": "tft_lcd",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_pcb",
+      "b": "tft_rear_components",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_pcb",
+      "b": "tft_header",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_pcb",
+      "b": "sensor_pcb",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_pcb",
+      "b": "sensor_components",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_lcd",
+      "b": "tft_rear_components",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_lcd",
+      "b": "tft_header",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_lcd",
+      "b": "sensor_pcb",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_lcd",
+      "b": "sensor_components",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_rear_components",
+      "b": "tft_header",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_rear_components",
+      "b": "sensor_pcb",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_rear_components",
+      "b": "sensor_components",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_header",
+      "b": "sensor_pcb",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "tft_header",
+      "b": "sensor_components",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "sensor_pcb",
+      "b": "sensor_components",
+      "intersection_mm3": 0.0
+    }
+  ],
+  "fit_coupons": {
+    "01_window_alignment": {
+      "file": "fit-check/01_window_alignment.stl",
+      "note": "Front-face slice. Compare actual viewing area with 30 x 37 opening; do not force the glass against the frame."
+    },
+    "02_tft_outline_gauge": {
+      "file": "fit-check/02_tft_outline_gauge.stl",
+      "note": "39 x 63 through opening: nominal 0.5 mm clearance per side around the listed 38 x 62 PCB."
+    },
+    "03_fastener_test": {
+      "file": "fit-check/03_fastener_test.stl",
+      "note": "Left to right when long side horizontal: blind pilot diameters 1.5, 1.6, 1.7; then 2.3 clearance with 4.3 head recess. Default pilot is 1.6. Tap M2 threads and test actual screws."
+    }
+  }
+}
